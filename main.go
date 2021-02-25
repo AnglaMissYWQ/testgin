@@ -1,4 +1,4 @@
-package main
+package testgin
 
 import (
 	"fmt"
