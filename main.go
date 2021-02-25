@@ -5,6 +5,8 @@ import (
 	"reflect"
 )
 
+var _VERSION_ = "unknown"
+
 type testInterface interface {
 	Message()
 	Success()
